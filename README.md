@@ -40,4 +40,5 @@ I'm currently learning advanced analytics and building real-world data projects.
 
 ### 📫 Connect with Me
 LinkedIn: www.linkedin.com/in/vishal-jaiswal-analyst
+
 Email: vishal.jaiswal.data@gmail.com
